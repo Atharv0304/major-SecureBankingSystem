@@ -38,12 +38,12 @@ SecureBankingSystem is a comprehensive banking application that ensures secure a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aman8593/Major-UnicornBank.git
+   git clone https://github.com/Atharv0304
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Major-UnicornBank
+   cd Major-SecureBankingSystem
    ```
 
 3. Set up the virtual environment (optional but recommended):
